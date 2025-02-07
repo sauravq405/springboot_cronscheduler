@@ -45,6 +45,5 @@ The email sending functionality can be tested or used manually via the Swagger U
 
 This application demonstrates how to integrate cron scheduling with email sending in Spring Boot, providing both automated email dispatch and logging of when these emails are scheduled in IST. Remember, for security, do not hardcode your email credentials in your source code; use environment variables or a secure configuration mechanism instead.
 
-<br>
 For generating gmail app password, you may refer to the below link: <br>
 visit [YouTube Tutorial](https://www.youtube.com/watch?v=MkLX85XU5rU&t=1s).
